@@ -45,7 +45,7 @@ ones, not reconstructed from memory.
 ## Quick install
 
 ```bash
-git clone https://github.com/IshmamDC217/caelestia-shell-ubuntu.git
+git clone https://github.com/arun2685/ubuntu-calestia-build.git
 cd caelestia-shell-ubuntu
 ./install-26.04.sh
 ```

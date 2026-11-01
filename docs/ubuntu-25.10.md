@@ -44,7 +44,7 @@ A complete guide to installing [Caelestia Shell](https://github.com/caelestia-do
 **Prerequisites:** Ubuntu 25.10 with Hyprland already installed (see [Step 1](#step-1-install-hyprland) below).
 
 ```bash
-git clone https://github.com/IshmamDC217/caelestia-shell-ubuntu.git
+git clone https://github.com/arun2685/ubuntu-calestia-build.git
 cd caelestia-shell-ubuntu
 ./install-25.10.sh
 ```
